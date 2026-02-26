@@ -1,0 +1,10 @@
+project_id = "dhbffmythcpjwtnjwqlr"
+
+[functions.sync-team-members]
+verify_jwt = false
+
+[functions.nexus-login]
+verify_jwt = false
+
+[functions.celebration-notifications]
+verify_jwt = false
